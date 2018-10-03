@@ -1,0 +1,17 @@
+node_modules/
+
+.env
+
+yarn.lock
+
+.DS_Store
+
+service-account-credentials.json
+
+filesUploaded.json
+
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
